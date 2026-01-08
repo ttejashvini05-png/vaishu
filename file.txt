@@ -1,2 +1,0 @@
-hello,
-    successfully created the file.
