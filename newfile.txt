@@ -1,2 +1,0 @@
-Hello,
-    Create a new file successfully without any issues.
